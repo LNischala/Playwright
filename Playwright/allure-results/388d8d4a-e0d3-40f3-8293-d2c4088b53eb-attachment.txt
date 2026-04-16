@@ -1,0 +1,27 @@
+BATCH SUMMARY: SRS1
+========================
+
+Subject: Chemistry
+- First Card: 'Content available soon'
+- Total Cards: 25
+- Last Card:  'Content available soon'
+
+Subject: Zoology
+- Status: Not Found / Skipped
+
+Subject: Botany
+- Status: Not Found / Skipped
+
+Subject: Physics
+- First Card: 'Content available soon'
+- Total Cards: 27
+- Last Card:  'Content available soon'
+
+Subject: Mathematics
+- First Card: 'Content available soon'
+- Total Cards: 28
+- Last Card:  'Content available soon'
+
+Subject: Biology
+- Status: Not Found / Skipped
+

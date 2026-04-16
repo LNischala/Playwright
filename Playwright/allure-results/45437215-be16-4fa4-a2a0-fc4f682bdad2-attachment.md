@@ -1,0 +1,177 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e5]:
+    - generic [ref=e8]:
+      - link "Aakash Logo" [ref=e9] [cursor=pointer]:
+        - /url: https://www.aakash.ac.in
+        - img "Aakash Logo" [ref=e11]
+      - generic [ref=e12]:
+        - generic [ref=e15] [cursor=pointer]:
+          - img [ref=e17]
+          - generic [ref=e19]: Home
+        - generic [ref=e22] [cursor=pointer]:
+          - img [ref=e24]
+          - generic [ref=e28]: Timetable and Attendance
+        - generic [ref=e31] [cursor=pointer]:
+          - img [ref=e33]
+          - generic [ref=e37]: Tests
+        - generic [ref=e40] [cursor=pointer]:
+          - img [ref=e42]
+          - generic [ref=e46]: Aakash iTutor
+        - generic [ref=e49] [cursor=pointer]:
+          - img [ref=e51]
+          - generic [ref=e55]: Aakash iTutor (New)
+        - generic [ref=e58] [cursor=pointer]:
+          - img [ref=e60]
+          - generic [ref=e63]: Ask Your Doubt
+        - generic [ref=e66] [cursor=pointer]:
+          - img [ref=e68]
+          - generic [ref=e72]: Test Performance
+        - generic [ref=e75] [cursor=pointer]:
+          - img [ref=e77]
+          - generic [ref=e82]: Channels
+        - generic [ref=e85] [cursor=pointer]:
+          - img [ref=e87]
+          - generic [ref=e90]: Class Recordings & Content
+        - generic [ref=e93] [cursor=pointer]:
+          - img [ref=e95]
+          - generic [ref=e97]: Assignments & Solutions
+          - img [ref=e98]
+        - generic [ref=e102] [cursor=pointer]:
+          - img [ref=e104]
+          - generic [ref=e106]: Bookmarks
+        - generic [ref=e109] [cursor=pointer]:
+          - img [ref=e111]
+          - generic [ref=e115]: Fee and Payment
+        - generic [ref=e118] [cursor=pointer]:
+          - img [ref=e120]
+          - generic [ref=e124]: Faculty Feedback
+        - generic [ref=e127] [cursor=pointer]:
+          - img [ref=e129]
+          - generic [ref=e134]: Service Request
+      - heading "Support" [level=2] [ref=e135]
+      - generic [ref=e138] [cursor=pointer]:
+        - img [ref=e140]
+        - generic [ref=e146]: Branch Contact
+    - generic [ref=e147]:
+      - generic [ref=e149]:
+        - generic [ref=e153] [cursor=pointer]:
+          - img [ref=e156]
+          - generic [ref=e159]:
+            - text: Selected Batch
+            - heading "9MW2" [level=2] [ref=e160]
+          - img [ref=e162]
+        - generic [ref=e164]:
+          - img [ref=e166] [cursor=pointer]
+          - generic [ref=e169] [cursor=pointer]:
+            - generic [ref=e170]: MS
+            - generic [ref=e171]:
+              - generic [ref=e173]: Manvendra Sachan
+              - img [ref=e175]
+      - generic [ref=e178]:
+        - generic [ref=e180]:
+          - generic [ref=e181]:
+            - generic [ref=e182] [cursor=pointer]:
+              - img [ref=e185]
+              - generic [ref=e191]: Chemistry
+            - generic [ref=e192] [cursor=pointer]:
+              - img [ref=e195]
+              - generic [ref=e200]: Zoology
+            - generic [ref=e201] [cursor=pointer]:
+              - img [ref=e204]
+              - generic [ref=e208]: Botany
+            - generic [ref=e209] [cursor=pointer]:
+              - img [ref=e212]
+              - generic [ref=e218]: Physics
+          - generic [ref=e219]:
+            - heading "Sort By :" [level=6] [ref=e220]
+            - generic [ref=e221] [cursor=pointer]:
+              - text: Date
+              - img [ref=e222]
+        - generic [ref=e226]:
+          - img "class recordings" [ref=e228]
+          - heading "You will be able to access your class content for this subject as soon as it is available" [level=6] [ref=e229]
+  - alert [ref=e230]: Aakash
+  - dialog "Modal" [active] [ref=e232]:
+    - generic [ref=e234]: Select your Batch
+    - generic [ref=e235]: Select Batch
+    - generic [ref=e236]:
+      - generic [ref=e237] [cursor=pointer]:
+        - generic [ref=e238]: SRS1
+        - img [ref=e240]
+      - generic [ref=e242] [cursor=pointer]:
+        - generic [ref=e243]: 9MW2
+        - img [ref=e245]
+      - generic [ref=e247] [cursor=pointer]:
+        - generic [ref=e248]: TEST
+        - img [ref=e250]
+      - generic [ref=e252] [cursor=pointer]:
+        - generic [ref=e253]: TEST12
+        - img [ref=e255]
+      - generic [ref=e257] [cursor=pointer]:
+        - generic [ref=e258]: TEST
+        - img [ref=e260]
+      - generic [ref=e262] [cursor=pointer]:
+        - generic [ref=e263]: 02M4
+        - img [ref=e265]
+      - generic [ref=e267] [cursor=pointer]:
+        - generic [ref=e268]: TEST
+        - img [ref=e270]
+      - generic [ref=e272] [cursor=pointer]:
+        - generic [ref=e273]: TEST
+        - img [ref=e275]
+      - generic [ref=e277] [cursor=pointer]:
+        - generic [ref=e278]: TEST
+        - img [ref=e280]
+      - generic [ref=e282] [cursor=pointer]:
+        - generic [ref=e283]: TEST
+        - img [ref=e285]
+      - generic [ref=e287] [cursor=pointer]:
+        - generic [ref=e288]: TEST
+        - img [ref=e290]
+      - generic [ref=e292] [cursor=pointer]:
+        - generic [ref=e293]: TEST
+        - img [ref=e295]
+      - generic [ref=e297] [cursor=pointer]:
+        - generic [ref=e298]: TEST12
+        - img [ref=e300]
+      - generic [ref=e302] [cursor=pointer]:
+        - generic [ref=e303]: TEST
+        - img [ref=e305]
+      - generic [ref=e307] [cursor=pointer]:
+        - generic [ref=e308]: TEST
+        - img [ref=e310]
+      - generic [ref=e312] [cursor=pointer]:
+        - generic [ref=e313]: TEST
+        - img [ref=e315]
+      - generic [ref=e317] [cursor=pointer]:
+        - generic [ref=e318]: TEST
+        - img [ref=e320]
+      - generic [ref=e322] [cursor=pointer]:
+        - generic [ref=e323]: TEST
+        - img [ref=e325]
+      - generic [ref=e327] [cursor=pointer]:
+        - generic [ref=e328]: TEST
+        - img [ref=e330]
+      - generic [ref=e332] [cursor=pointer]:
+        - generic [ref=e333]: TEST
+        - img [ref=e335]
+      - generic [ref=e337] [cursor=pointer]:
+        - generic [ref=e338]: TEST
+        - img [ref=e340]
+      - generic [ref=e342] [cursor=pointer]:
+        - generic [ref=e343]: TEST
+        - img [ref=e345]
+      - generic [ref=e347] [cursor=pointer]:
+        - generic [ref=e348]: RM01
+        - img [ref=e350]
+      - generic [ref=e352] [cursor=pointer]:
+        - generic [ref=e353]: TEST
+        - img [ref=e355]
+      - generic [ref=e357] [cursor=pointer]:
+        - generic [ref=e358]: TEST
+        - img [ref=e360]
+    - button "Done" [ref=e363] [cursor=pointer]
+```

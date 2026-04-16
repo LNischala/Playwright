@@ -1,0 +1,13 @@
+Popup not visible or failed to close
+Subject tab Chemistry not visible or not clickable
+Skipping subject Chemistry as tab not selectable.
+Subject tab Zoology not visible or not clickable
+Skipping subject Zoology as tab not selectable.
+Subject tab Botany not visible or not clickable
+Skipping subject Botany as tab not selectable.
+Subject tab Physics not visible or not clickable
+Skipping subject Physics as tab not selectable.
+Subject tab Mathematics not visible or not clickable
+Skipping subject Mathematics as tab not selectable.
+Subject tab Biology not visible or not clickable
+Skipping subject Biology as tab not selectable.

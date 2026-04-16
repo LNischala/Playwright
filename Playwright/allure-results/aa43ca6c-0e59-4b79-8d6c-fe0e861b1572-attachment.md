@@ -1,0 +1,195 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e5]:
+    - generic [ref=e8]:
+      - link "Aakash Logo" [ref=e9] [cursor=pointer]:
+        - /url: https://www.aakash.ac.in
+        - img "Aakash Logo" [ref=e11]
+      - generic [ref=e12]:
+        - generic [ref=e15] [cursor=pointer]:
+          - img [ref=e17]
+          - generic [ref=e19]: Home
+        - generic [ref=e22] [cursor=pointer]:
+          - img [ref=e24]
+          - generic [ref=e28]: Timetable and Attendance
+        - generic [ref=e31] [cursor=pointer]:
+          - img [ref=e33]
+          - generic [ref=e37]: Tests
+        - generic [ref=e40] [cursor=pointer]:
+          - img [ref=e42]
+          - generic [ref=e46]: Aakash iTutor
+        - generic [ref=e49] [cursor=pointer]:
+          - img [ref=e51]
+          - generic [ref=e55]: Aakash iTutor (New)
+        - generic [ref=e58] [cursor=pointer]:
+          - img [ref=e60]
+          - generic [ref=e63]: Ask Your Doubt
+        - generic [ref=e66] [cursor=pointer]:
+          - img [ref=e68]
+          - generic [ref=e72]: Test Performance
+        - generic [ref=e75] [cursor=pointer]:
+          - img [ref=e77]
+          - generic [ref=e82]: Channels
+        - generic [ref=e85] [cursor=pointer]:
+          - img [ref=e87]
+          - generic [ref=e90]: Class Recordings & Content
+        - generic [ref=e93] [cursor=pointer]:
+          - img [ref=e95]
+          - generic [ref=e97]: Assignments & Solutions
+          - img [ref=e98]
+        - generic [ref=e102] [cursor=pointer]:
+          - img [ref=e104]
+          - generic [ref=e106]: Bookmarks
+        - generic [ref=e109] [cursor=pointer]:
+          - img [ref=e111]
+          - generic [ref=e115]: Fee and Payment
+        - generic [ref=e118] [cursor=pointer]:
+          - img [ref=e120]
+          - generic [ref=e124]: Faculty Feedback
+        - generic [ref=e127] [cursor=pointer]:
+          - img [ref=e129]
+          - generic [ref=e134]: Service Request
+      - heading "Support" [level=2] [ref=e135]
+      - generic [ref=e138] [cursor=pointer]:
+        - img [ref=e140]
+        - generic [ref=e146]: Branch Contact
+    - generic [ref=e147]:
+      - generic [ref=e149]:
+        - generic [ref=e151]:
+          - img [ref=e153] [cursor=pointer]
+          - generic [ref=e156] [cursor=pointer]:
+            - img [ref=e159]
+            - generic [ref=e165]:
+              - generic [ref=e166]: "01"
+              - text: Physical World & Units and Measurement
+            - img [ref=e168]
+        - generic [ref=e170]:
+          - img [ref=e172] [cursor=pointer]
+          - generic [ref=e175] [cursor=pointer]:
+            - generic [ref=e176]: MS
+            - generic [ref=e177]:
+              - generic [ref=e179]: Manvendra Sachan
+              - img [ref=e181]
+      - generic [ref=e184]:
+        - generic [ref=e187]:
+          - generic [ref=e189]:
+            - generic [ref=e191] [cursor=pointer]:
+              - generic [ref=e192]:
+                - img [ref=e193]
+                - img [ref=e196]
+              - generic [ref=e200]:
+                - generic [ref=e201]: Videos
+                - generic [ref=e202]: 28/31
+            - generic [ref=e204] [cursor=pointer]:
+              - generic [ref=e205]:
+                - img [ref=e206]
+                - img [ref=e209]
+              - generic [ref=e215]:
+                - generic [ref=e216]: eBooks
+                - generic [ref=e217]: 4/7
+            - generic [ref=e219] [cursor=pointer]:
+              - generic [ref=e220]:
+                - img [ref=e221]
+                - img [ref=e224]
+              - generic [ref=e230]:
+                - generic [ref=e231]: Practice
+                - generic [ref=e232]: 7/7
+          - generic [ref=e235] [cursor=pointer]: General
+        - generic [ref=e236]:
+          - generic [ref=e241] [cursor=pointer]:
+            - img [ref=e243]
+            - generic [ref=e249]:
+              - generic [ref=e250]: NSE-Physics
+              - generic [ref=e251]:
+                - img [ref=e252]
+                - generic [ref=e256]: 106 pages
+              - generic [ref=e258]:
+                - generic [ref=e259]: 26%
+                - generic [ref=e260]:
+                  - generic [ref=e261]: "28"
+                  - generic [ref=e262]: /
+                  - generic [ref=e263]: "106"
+            - img [ref=e267]
+          - generic [ref=e273] [cursor=pointer]:
+            - img [ref=e275]
+            - generic [ref=e281]:
+              - generic [ref=e282]: NSE-Physics_Sol
+              - generic [ref=e283]:
+                - img [ref=e284]
+                - generic [ref=e288]: 108 pages
+              - generic [ref=e290]:
+                - generic [ref=e291]: 2%
+                - generic [ref=e292]:
+                  - generic [ref=e293]: "2"
+                  - generic [ref=e294]: /
+                  - generic [ref=e295]: "108"
+            - img [ref=e299]
+          - generic [ref=e305] [cursor=pointer]:
+            - img [ref=e307]
+            - generic [ref=e313]:
+              - generic [ref=e314]: AMTP-Aakash Model Test Papers(Half Yearly)-Class XI
+              - generic [ref=e315]:
+                - img [ref=e316]
+                - generic [ref=e320]: 33 pages
+              - generic [ref=e322]:
+                - generic [ref=e323]: 3%
+                - generic [ref=e324]:
+                  - generic [ref=e325]: "1"
+                  - generic [ref=e326]: /
+                  - generic [ref=e327]: "33"
+            - img [ref=e331]
+          - generic [ref=e337] [cursor=pointer]:
+            - img [ref=e339]
+            - generic [ref=e345]:
+              - generic [ref=e346]: Physical World & Units and Measurements_Solution
+              - generic [ref=e347]:
+                - img [ref=e348]
+                - generic [ref=e352]: 26 pages
+              - generic [ref=e354]:
+                - generic [ref=e355]: 92%
+                - generic [ref=e356]:
+                  - generic [ref=e357]: "24"
+                  - generic [ref=e358]: /
+                  - generic [ref=e359]: "26"
+            - img [ref=e363]
+          - generic [ref=e369] [cursor=pointer]:
+            - img [ref=e371]
+            - generic [ref=e377]:
+              - generic [ref=e378]: JEE Score-Physical World, Units and Measurement
+              - generic [ref=e379]:
+                - img [ref=e380]
+                - generic [ref=e384]: 4 pages
+              - generic [ref=e387]: 100%
+            - img [ref=e391]
+          - generic [ref=e397] [cursor=pointer]:
+            - img [ref=e399]
+            - generic [ref=e405]:
+              - generic [ref=e406]: Physical Word & Unit and Measurement
+              - generic [ref=e407]:
+                - img [ref=e408]
+                - generic [ref=e412]: 44 pages
+              - generic [ref=e414]:
+                - generic [ref=e415]: 9%
+                - generic [ref=e416]:
+                  - generic [ref=e417]: "4"
+                  - generic [ref=e418]: /
+                  - generic [ref=e419]: "44"
+            - img [ref=e423]
+          - generic [ref=e429] [cursor=pointer]:
+            - img [ref=e431]
+            - generic [ref=e437]:
+              - generic [ref=e438]: Rapid Revision and Formula Bank - Physics & Measurement
+              - generic [ref=e439]:
+                - img [ref=e440]
+                - generic [ref=e444]: 6 pages
+              - generic [ref=e446]:
+                - generic [ref=e447]: 67%
+                - generic [ref=e448]:
+                  - generic [ref=e449]: "4"
+                  - generic [ref=e450]: /
+                  - generic [ref=e451]: "6"
+            - img [ref=e455]
+  - alert [ref=e457]: Aakash
+```

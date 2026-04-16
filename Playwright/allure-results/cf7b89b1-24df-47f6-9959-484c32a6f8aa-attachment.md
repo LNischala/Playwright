@@ -1,0 +1,127 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e5]:
+    - generic [ref=e8]:
+      - link "Aakash Logo" [ref=e9] [cursor=pointer]:
+        - /url: https://www.aakash.ac.in
+        - img "Aakash Logo" [ref=e11]
+      - generic [ref=e12]:
+        - generic [ref=e15] [cursor=pointer]:
+          - img [ref=e17]
+          - generic [ref=e19]: Home
+        - generic [ref=e22] [cursor=pointer]:
+          - img [ref=e24]
+          - generic [ref=e28]: Timetable and Attendance
+        - generic [ref=e31] [cursor=pointer]:
+          - img [ref=e33]
+          - generic [ref=e37]: Tests
+        - generic [ref=e40] [cursor=pointer]:
+          - img [ref=e42]
+          - generic [ref=e46]: Aakash iTutor
+        - generic [ref=e49] [cursor=pointer]:
+          - img [ref=e51]
+          - generic [ref=e55]: Aakash iTutor (New)
+        - generic [ref=e58] [cursor=pointer]:
+          - img [ref=e60]
+          - generic [ref=e63]: Ask Your Doubt
+        - generic [ref=e66] [cursor=pointer]:
+          - img [ref=e68]
+          - generic [ref=e72]: Test Performance
+        - generic [ref=e75] [cursor=pointer]:
+          - img [ref=e77]
+          - generic [ref=e82]: Channels
+        - generic [ref=e85] [cursor=pointer]:
+          - img [ref=e87]
+          - generic [ref=e90]: Class Recordings & Content
+        - generic [ref=e93] [cursor=pointer]:
+          - img [ref=e95]
+          - generic [ref=e97]: Assignments & Solutions
+          - img [ref=e98]
+        - generic [ref=e102] [cursor=pointer]:
+          - img [ref=e104]
+          - generic [ref=e106]: Bookmarks
+        - generic [ref=e109] [cursor=pointer]:
+          - img [ref=e111]
+          - generic [ref=e115]: Fee and Payment
+        - generic [ref=e118] [cursor=pointer]:
+          - img [ref=e120]
+          - generic [ref=e124]: Faculty Feedback
+        - generic [ref=e127] [cursor=pointer]:
+          - img [ref=e129]
+          - generic [ref=e134]: Service Request
+      - heading "Support" [level=2] [ref=e135]
+      - generic [ref=e138] [cursor=pointer]:
+        - img [ref=e140]
+        - generic [ref=e146]: Branch Contact
+    - generic [ref=e147]:
+      - generic [ref=e150]:
+        - img [ref=e152] [cursor=pointer]
+        - generic [ref=e155] [cursor=pointer]:
+          - generic [ref=e156]: MS
+          - generic [ref=e157]:
+            - generic [ref=e159]: Manvendra Sachan
+            - img [ref=e161]
+      - generic [ref=e163]:
+        - img [ref=e165] [cursor=pointer]
+        - generic [ref=e170]:
+          - generic [ref=e197]:
+            - generic:
+              - img "image"
+            - generic:
+              - img "image"
+            - generic [ref=e198]: What would you like to learn today?
+            - generic [ref=e199]:
+              - generic [ref=e200]:
+                - img "Subject Icon" [ref=e203] [cursor=pointer]
+                - generic [ref=e204]: Physics
+              - generic [ref=e205]:
+                - img "Subject Icon" [ref=e208] [cursor=pointer]
+                - generic [ref=e209]: Chemistry
+              - generic [ref=e210]:
+                - img "Subject Icon" [ref=e213] [cursor=pointer]
+                - generic [ref=e214]: Mathematics
+          - generic [ref=e223] [cursor=pointer]:
+            - img "Student Profile" [ref=e226]
+            - generic [ref=e227]: Switch to Parent Profile
+            - generic [ref=e228]:
+              - generic [ref=e229]: Switch
+              - img [ref=e231]
+          - generic [ref=e234] [cursor=pointer]:
+            - img [ref=e236]
+            - generic [ref=e238]:
+              - generic [ref=e239]: Ask your Doubt
+              - generic [ref=e240]: Get instant solution to your questions.
+          - generic [ref=e242] [cursor=pointer]:
+            - img [ref=e244]
+            - generic [ref=e246]:
+              - generic [ref=e247]: JEE Challenger
+              - generic [ref=e248]: Start practicing past year JEE questions.
+          - generic [ref=e252]:
+            - heading "Quick Links" [level=2] [ref=e253]
+            - generic [ref=e257]:
+              - generic [ref=e258]: Check your Test Results
+              - link "Check Result" [ref=e259] [cursor=pointer]:
+                - /url: /student-result-data?psid=MDAwMDc4NDQxNTA=
+          - generic [ref=e261]:
+            - generic [ref=e262]: myAakash app is available on all platforms
+            - generic [ref=e263]:
+              - generic [ref=e264]:
+                - generic [ref=e265]:
+                  - img [ref=e266]
+                  - generic [ref=e268]: Mobiles
+                  - generic [ref=e269]: iOS & Android
+                - generic [ref=e270]:
+                  - img [ref=e271]
+                  - generic [ref=e275]: Desktops
+                  - generic [ref=e276]: All Browsers
+              - generic [ref=e277]:
+                - link "google play icon" [ref=e278] [cursor=pointer]:
+                  - /url: https://play.google.com/store/apps/details?id=com.aakash.myaakashapp
+                  - img "google play icon" [ref=e280]
+                - link "app store icon" [ref=e281] [cursor=pointer]:
+                  - /url: https://apps.apple.com/in/app/myaakash/id6444600463
+                  - img "app store icon" [ref=e283]
+  - alert [ref=e284]: Aakash
+```

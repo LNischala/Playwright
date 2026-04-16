@@ -1,0 +1,39 @@
+Popup not visible or failed to close
+Found 3 month containers in Chemistry.
+Skipping month container as it has no Play Video or View Notes options.
+Skipping month container as it has no Play Video or View Notes options.
+Skipping month container as it has no Play Video or View Notes options.
+Subject tab Zoology not visible
+Found 3 month containers in Zoology.
+Skipping month container as it has no Play Video or View Notes options.
+Skipping month container as it has no Play Video or View Notes options.
+Skipping month container as it has no Play Video or View Notes options.
+Subject tab Botany not visible
+Found 3 month containers in Botany.
+Skipping month container as it has no Play Video or View Notes options.
+Skipping month container as it has no Play Video or View Notes options.
+Skipping month container as it has no Play Video or View Notes options.
+Found 3 month containers in Physics.
+Skipping month container as it has no Play Video or View Notes options.
+Skipping month container as it has no Play Video or View Notes options.
+Skipping month container as it has no Play Video or View Notes options.
+Found 3 month containers in Mathematics.
+Skipping month container as it has no Play Video or View Notes options.
+Skipping month container as it has no Play Video or View Notes options.
+Skipping month container as it has no Play Video or View Notes options.
+Subject tab Biology not visible
+Found 3 month containers in Biology.
+Skipping month container as it has no Play Video or View Notes options.
+Skipping month container as it has no Play Video or View Notes options.
+Skipping month container as it has no Play Video or View Notes options.
+Found 6 month containers in Chemistry.
+Skipping month container as it has no Play Video or View Notes options.
+Month container has actionable content. Iterating cards...
+Verified "Content available soon" state.
+Successfully verified Video Playback.
+Skipping month container as it has no Play Video or View Notes options.
+Skipping month container as it has no Play Video or View Notes options.
+Skipping month container as it has no Play Video or View Notes options.
+Month container has actionable content. Iterating cards...
+Successfully verified Notes Opening.
+Test execution complete: Target Play Video and View Notes cards verified.

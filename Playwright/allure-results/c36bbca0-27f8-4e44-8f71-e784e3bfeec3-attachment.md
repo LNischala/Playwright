@@ -1,0 +1,91 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e5]:
+    - generic [ref=e8]:
+      - link "Aakash Logo" [ref=e9] [cursor=pointer]:
+        - /url: https://www.aakash.ac.in
+        - img "Aakash Logo" [ref=e11]
+      - generic [ref=e12]:
+        - generic [ref=e15] [cursor=pointer]:
+          - img [ref=e17]
+          - generic [ref=e19]: Home
+        - generic [ref=e22] [cursor=pointer]:
+          - img [ref=e24]
+          - generic [ref=e28]: Timetable and Attendance
+        - generic [ref=e31] [cursor=pointer]:
+          - img [ref=e33]
+          - generic [ref=e37]: Tests
+        - generic [ref=e40] [cursor=pointer]:
+          - img [ref=e42]
+          - generic [ref=e46]: Aakash iTutor
+        - generic [ref=e49] [cursor=pointer]:
+          - img [ref=e51]
+          - generic [ref=e55]: Aakash iTutor (New)
+        - generic [ref=e58] [cursor=pointer]:
+          - img [ref=e60]
+          - generic [ref=e63]: Ask Your Doubt
+        - generic [ref=e66] [cursor=pointer]:
+          - img [ref=e68]
+          - generic [ref=e72]: Test Performance
+        - generic [ref=e75] [cursor=pointer]:
+          - img [ref=e77]
+          - generic [ref=e82]: Channels
+        - generic [ref=e85] [cursor=pointer]:
+          - img [ref=e87]
+          - generic [ref=e90]: Class Recordings & Content
+        - generic [ref=e93] [cursor=pointer]:
+          - img [ref=e95]
+          - generic [ref=e97]: Assignments & Solutions
+          - img [ref=e98]
+        - generic [ref=e102] [cursor=pointer]:
+          - img [ref=e104]
+          - generic [ref=e106]: Bookmarks
+        - generic [ref=e109] [cursor=pointer]:
+          - img [ref=e111]
+          - generic [ref=e115]: Fee and Payment
+        - generic [ref=e118] [cursor=pointer]:
+          - img [ref=e120]
+          - generic [ref=e124]: Faculty Feedback
+        - generic [ref=e127] [cursor=pointer]:
+          - img [ref=e129]
+          - generic [ref=e134]: Service Request
+      - heading "Support" [level=2] [ref=e135]
+      - generic [ref=e138] [cursor=pointer]:
+        - img [ref=e140]
+        - generic [ref=e146]: Branch Contact
+    - generic [ref=e147]:
+      - generic [ref=e149]:
+        - img [ref=e150] [cursor=pointer]
+        - generic [ref=e153]: Announcement
+        - generic [ref=e154]:
+          - img [ref=e156] [cursor=pointer]
+          - generic [ref=e159] [cursor=pointer]:
+            - generic [ref=e160]: MS
+            - generic [ref=e161]:
+              - generic [ref=e163]: Manvendra Sachan
+              - img [ref=e165]
+      - generic [ref=e169]:
+        - generic [ref=e170]:
+          - generic [ref=e171]:
+            - generic [ref=e172]:
+              - generic [ref=e173]: TEST general
+              - generic [ref=e174]: Title 2
+            - generic [ref=e175]: 26 Sep
+          - generic [ref=e177]: check all scenarios
+        - generic [ref=e178]:
+          - generic [ref=e179] [cursor=pointer]:
+            - generic [ref=e180]: gm1 5 mb - Copy.jpeg
+            - img [ref=e181]
+          - generic [ref=e183] [cursor=pointer]:
+            - generic [ref=e184]: gm1 5 mb.jpeg
+            - img [ref=e185]
+          - generic [ref=e187] [cursor=pointer]:
+            - generic [ref=e188]: pdf 30 - Copy.pdf
+            - img [ref=e189]
+          - generic [ref=e191] [cursor=pointer]:
+            - generic [ref=e192]: pdf 30.pdf
+            - img [ref=e193]
+  - alert [ref=e195]: Aakash
+```

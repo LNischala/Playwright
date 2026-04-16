@@ -1,0 +1,125 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e5]:
+    - generic [ref=e8]:
+      - link "Aakash Logo" [ref=e9] [cursor=pointer]:
+        - /url: https://www.aakash.ac.in
+        - img "Aakash Logo" [ref=e11]
+      - generic [ref=e12]:
+        - generic [ref=e15] [cursor=pointer]:
+          - img [ref=e17]
+          - generic [ref=e19]: Home
+        - generic [ref=e22] [cursor=pointer]:
+          - img [ref=e24]
+          - generic [ref=e28]: Timetable and Attendance
+        - generic [ref=e31] [cursor=pointer]:
+          - img [ref=e33]
+          - generic [ref=e37]: Tests
+        - generic [ref=e40] [cursor=pointer]:
+          - img [ref=e42]
+          - generic [ref=e46]: Aakash iTutor
+        - generic [ref=e49] [cursor=pointer]:
+          - img [ref=e51]
+          - generic [ref=e55]: Aakash iTutor (New)
+        - generic [ref=e58] [cursor=pointer]:
+          - img [ref=e60]
+          - generic [ref=e63]: Ask Your Doubt
+        - generic [ref=e66] [cursor=pointer]:
+          - img [ref=e68]
+          - generic [ref=e72]: Test Performance
+        - generic [ref=e75] [cursor=pointer]:
+          - img [ref=e77]
+          - generic [ref=e82]: Channels
+        - generic [ref=e85] [cursor=pointer]:
+          - img [ref=e87]
+          - generic [ref=e90]: Class Recordings & Content
+        - generic [ref=e93] [cursor=pointer]:
+          - img [ref=e95]
+          - generic [ref=e97]: Assignments & Solutions
+          - img [ref=e98]
+        - generic [ref=e102] [cursor=pointer]:
+          - img [ref=e104]
+          - generic [ref=e106]: Bookmarks
+        - generic [ref=e109] [cursor=pointer]:
+          - img [ref=e111]
+          - generic [ref=e115]: Fee and Payment
+        - generic [ref=e118] [cursor=pointer]:
+          - img [ref=e120]
+          - generic [ref=e124]: Faculty Feedback
+        - generic [ref=e127] [cursor=pointer]:
+          - img [ref=e129]
+          - generic [ref=e134]: Service Request
+      - heading "Support" [level=2] [ref=e135]
+      - generic [ref=e138] [cursor=pointer]:
+        - img [ref=e140]
+        - generic [ref=e146]: Branch Contact
+    - generic [ref=e147]:
+      - generic [ref=e149]:
+        - img [ref=e150] [cursor=pointer]
+        - generic [ref=e153]: Tests Questions
+        - generic [ref=e154]:
+          - img [ref=e156] [cursor=pointer]
+          - generic [ref=e159] [cursor=pointer]:
+            - generic [ref=e160]: MS
+            - generic [ref=e161]:
+              - generic [ref=e163]: Manvendra Sachan
+              - img [ref=e165]
+      - generic [ref=e168]:
+        - generic [ref=e169]:
+          - generic [ref=e170] [cursor=pointer]: All
+          - generic [ref=e171] [cursor=pointer]: Videos
+          - generic [ref=e172] [cursor=pointer]: eBooks
+          - generic [ref=e173] [cursor=pointer]: Questions
+        - generic [ref=e176]:
+          - generic [ref=e181] [cursor=pointer]:
+            - img [ref=e183]
+            - generic [ref=e186]:
+              - generic [ref=e187]: The resistance of a resistor with colour code as shown in the figure is
+              - button "View Question" [ref=e188]
+            - img [ref=e190]
+          - generic [ref=e196] [cursor=pointer]:
+            - img [ref=e198]
+            - generic [ref=e201]:
+              - generic [ref=e202]: Two protons enter a region of transverse magnetic field. What will be the ratio of time period of re
+              - button "View Question" [ref=e203]
+            - img [ref=e205]
+          - generic [ref=e211] [cursor=pointer]:
+            - img [ref=e213]
+            - generic [ref=e216]:
+              - generic [ref=e217]: If 25% part of length of wire is stretched by 25%, then percentage change in resistance of wire will
+              - button "View Question" [ref=e218]
+            - img [ref=e220]
+          - generic [ref=e226] [cursor=pointer]:
+            - img [ref=e228]
+            - generic [ref=e231]:
+              - generic [ref=e232]: A current of 8 A is to be sent through a resistor of 5 Ω. Calculate the least number of cells in a m
+              - button "View Question" [ref=e233]
+            - img [ref=e235]
+          - generic [ref=e241] [cursor=pointer]:
+            - img [ref=e243]
+            - generic [ref=e246]:
+              - generic [ref=e247]: The potential difference (in V) between points A and B shown in figure.
+              - button "View Question" [ref=e248]
+            - img [ref=e250]
+          - generic [ref=e256] [cursor=pointer]:
+            - img [ref=e258]
+            - generic [ref=e261]:
+              - generic [ref=e262]: In the arrangement shown, AB is a fixed current carrying long wire. Wire CD is held stationary with
+              - button "View Question" [ref=e263]
+            - img [ref=e265]
+          - generic [ref=e271] [cursor=pointer]:
+            - img [ref=e273]
+            - generic [ref=e276]:
+              - generic [ref=e277]: The activation energies for the forward and reverse elementary reactions in the system A ⇌ B ar
+              - button "View Question" [ref=e278]
+            - img [ref=e280]
+          - generic [ref=e286] [cursor=pointer]:
+            - img [ref=e288]
+            - generic [ref=e291]:
+              - generic [ref=e292]: A solid sphere rolls without slipping on a rough horizontal surface under the action of a constant f
+              - button "View Question" [ref=e293]
+            - img [ref=e295]
+  - alert [ref=e297]: Aakash
+```

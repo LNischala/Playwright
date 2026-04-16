@@ -1,0 +1,3 @@
+Popup not visible or failed to close
+Suggestions not visible in first attempt
+Ask an Expert not visible in second attempt

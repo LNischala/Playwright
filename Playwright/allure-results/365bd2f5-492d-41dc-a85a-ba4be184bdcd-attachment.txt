@@ -1,0 +1,29 @@
+BATCH SUMMARY: 02M4
+========================
+
+Subject: Chemistry
+- First Card: 'Content available soon'
+- Total Cards: 40
+- Last Card:  'Content available soon'
+
+Subject: Zoology
+- First Card: 'Content available soon'
+- Total Cards: 26
+- Last Card:  'Content available soon'
+
+Subject: Botany
+- First Card: Monday, 9 December’24 | 3:08PM - 3:20PM | [Play Video View Notes]
+- Total Cards: 5
+- Last Card:  'Content available soon'
+
+Subject: Physics
+- First Card: Tuesday, 3 June’25 | 5:12PM - 5:39PM | [Play Video View Notes]
+- Total Cards: 144
+- Last Card:  'Content available soon'
+
+Subject: Mathematics
+- Status: Not Found / Skipped
+
+Subject: Biology
+- Status: Not Found / Skipped
+

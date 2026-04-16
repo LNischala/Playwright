@@ -1,0 +1,8 @@
+Popup not visible or failed to close
+Total batches visible in Channels: 6
+Batch index 0: posts found = 1
+Channels content type found: Announcement + General
+Inline image(s) found in post. Image count: 1
+Attachment tile(s) found in post: 4
+Post text found: Timetable and Attendance | Tests | Aakash iTutor
+Attachment opened: gm1 5 mb - Copy.jpeg

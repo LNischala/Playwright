@@ -1,0 +1,12 @@
+Popup not visible or failed to close
+Subject Chemistry is empty.
+Subject Zoology is empty.
+Subject Botany is empty.
+Subject Physics is empty.
+Subject tab Mathematics not visible or not clickable
+Skipping subject Mathematics as tab not selectable.
+Subject tab Biology not visible or not clickable
+Skipping subject Biology as tab not selectable.
+Found 3 month containers in Chemistry.
+Skipping month "Sort By :" (no actionable content).
+Skipping month "May" (no actionable content).

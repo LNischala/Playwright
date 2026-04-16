@@ -1,0 +1,225 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e5]:
+    - generic [ref=e8]:
+      - link "Aakash Logo" [ref=e9] [cursor=pointer]:
+        - /url: https://www.aakash.ac.in
+        - img "Aakash Logo" [ref=e11]
+      - generic [ref=e12]:
+        - generic [ref=e15] [cursor=pointer]:
+          - img [ref=e17]
+          - generic [ref=e19]: Home
+        - generic [ref=e22] [cursor=pointer]:
+          - img [ref=e24]
+          - generic [ref=e28]: Timetable and Attendance
+        - generic [ref=e31] [cursor=pointer]:
+          - img [ref=e33]
+          - generic [ref=e37]: Tests
+        - generic [ref=e40] [cursor=pointer]:
+          - img [ref=e42]
+          - generic [ref=e46]: Aakash iTutor
+        - generic [ref=e49] [cursor=pointer]:
+          - img [ref=e51]
+          - generic [ref=e55]: Aakash iTutor (New)
+        - generic [ref=e58] [cursor=pointer]:
+          - img [ref=e60]
+          - generic [ref=e63]: Ask Your Doubt
+        - generic [ref=e66] [cursor=pointer]:
+          - img [ref=e68]
+          - generic [ref=e72]: Test Performance
+        - generic [ref=e75] [cursor=pointer]:
+          - img [ref=e77]
+          - generic [ref=e82]: Channels
+        - generic [ref=e85] [cursor=pointer]:
+          - img [ref=e87]
+          - generic [ref=e90]: Class Recordings & Content
+        - generic [ref=e93] [cursor=pointer]:
+          - img [ref=e95]
+          - generic [ref=e97]: Assignments & Solutions
+          - img [ref=e98]
+        - generic [ref=e102] [cursor=pointer]:
+          - img [ref=e104]
+          - generic [ref=e106]: Bookmarks
+        - generic [ref=e109] [cursor=pointer]:
+          - img [ref=e111]
+          - generic [ref=e115]: Fee and Payment
+        - generic [ref=e118] [cursor=pointer]:
+          - img [ref=e120]
+          - generic [ref=e124]: Faculty Feedback
+        - generic [ref=e127] [cursor=pointer]:
+          - img [ref=e129]
+          - generic [ref=e134]: Service Request
+      - heading "Support" [level=2] [ref=e135]
+      - generic [ref=e138] [cursor=pointer]:
+        - img [ref=e140]
+        - generic [ref=e146]: Branch Contact
+    - generic [ref=e147]:
+      - generic [ref=e150]:
+        - img [ref=e152] [cursor=pointer]
+        - generic [ref=e155] [cursor=pointer]:
+          - generic [ref=e156]: MS
+          - generic [ref=e157]:
+            - generic [ref=e159]: Manvendra Sachan
+            - img [ref=e161]
+      - generic [ref=e163]:
+        - img [ref=e165] [cursor=pointer]
+        - generic [ref=e170]:
+          - generic [ref=e171]:
+            - generic [ref=e172]: Today is
+            - generic [ref=e173]: Thu, 9 Apr, 2026
+            - generic [ref=e174]:
+              - generic [ref=e175]: "First Punch :"
+              - generic [ref=e176]: "-"
+            - generic [ref=e178]:
+              - generic [ref=e179]: "Last Punch :"
+              - generic [ref=e180]: "-"
+          - generic [ref=e181]:
+            - generic [ref=e182]:
+              - img [ref=e183]
+              - generic [ref=e186]:
+                - generic [ref=e187]: Email Registered Successfully!
+                - generic [ref=e188]: punamkundu271189@gmail.com
+            - img [ref=e191] [cursor=pointer]
+          - generic [ref=e198]:
+            - generic:
+              - img "image"
+            - generic:
+              - img "image"
+            - generic [ref=e199]: What would you like to learn today?
+            - generic [ref=e200]:
+              - generic [ref=e201]:
+                - img "Subject Icon" [ref=e204] [cursor=pointer]
+                - generic [ref=e205]: Physics
+              - generic [ref=e206]:
+                - img "Subject Icon" [ref=e209] [cursor=pointer]
+                - generic [ref=e210]: Chemistry
+              - generic [ref=e211]:
+                - img "Subject Icon" [ref=e214] [cursor=pointer]
+                - generic [ref=e215]: Mathematics
+          - generic [ref=e216]:
+            - generic [ref=e217]: Resume learning
+            - generic [ref=e220]:
+              - img [ref=e222] [cursor=pointer]
+              - generic [ref=e224]:
+                - generic [ref=e226] [cursor=pointer]:
+                  - img [ref=e229]
+                  - generic [ref=e235]:
+                    - generic [ref=e236]: Physics
+                    - generic [ref=e237]: NSE-Physics
+                    - generic [ref=e239]:
+                      - generic [ref=e240]: 26%
+                      - generic [ref=e241]:
+                        - generic [ref=e242]: "28"
+                        - generic [ref=e243]: /
+                        - generic [ref=e244]: "106"
+                - generic [ref=e248] [cursor=pointer]:
+                  - img [ref=e251]
+                  - generic [ref=e257]:
+                    - generic [ref=e258]: Mathematics
+                    - generic [ref=e259]: Quadratic Equations
+                    - generic [ref=e261]:
+                      - generic [ref=e262]: 40%
+                      - generic [ref=e263]:
+                        - generic [ref=e264]: "21"
+                        - generic [ref=e265]: /
+                        - generic [ref=e266]: "52"
+                - generic [ref=e270] [cursor=pointer]:
+                  - img [ref=e273]
+                  - generic [ref=e279]:
+                    - generic [ref=e280]: Physics
+                    - generic [ref=e281]: NSE-Physics_Sol
+                    - generic [ref=e283]:
+                      - generic [ref=e284]: 6%
+                      - generic [ref=e285]:
+                        - generic [ref=e286]: "6"
+                        - generic [ref=e287]: /
+                        - generic [ref=e288]: "108"
+                - generic [ref=e292] [cursor=pointer]:
+                  - img [ref=e295]
+                  - generic [ref=e301]:
+                    - generic [ref=e302]: Mathematics
+                    - generic [ref=e303]: Relations and Functions
+                    - generic [ref=e305]:
+                      - generic [ref=e306]: 17%
+                      - generic [ref=e307]:
+                        - generic [ref=e308]: "10"
+                        - generic [ref=e309]: /
+                        - generic [ref=e310]: "60"
+                - generic [ref=e314] [cursor=pointer]:
+                  - img [ref=e318]
+                  - generic [ref=e321]:
+                    - generic [ref=e322]: Physics
+                    - generic [ref=e323]: problems based upon magnetic field due to straight wire.
+                    - generic [ref=e325]:
+                      - generic [ref=e326]: 8%
+                      - generic [ref=e327]:
+                        - generic [ref=e328]: 00:29
+                        - generic [ref=e329]: /
+                        - generic [ref=e330]: 05:44
+              - img [ref=e334] [cursor=pointer]
+          - generic [ref=e336] [cursor=pointer]:
+            - img "Student Profile" [ref=e339]
+            - generic [ref=e340]: Switch to Parent Profile
+            - generic [ref=e341]:
+              - generic [ref=e342]: Switch
+              - img [ref=e344]
+          - generic [ref=e347] [cursor=pointer]:
+            - img [ref=e349]
+            - generic [ref=e351]:
+              - generic [ref=e352]: Ask your Doubt
+              - generic [ref=e353]: Get instant solution to your questions.
+          - generic [ref=e355] [cursor=pointer]:
+            - img [ref=e357]
+            - generic [ref=e359]:
+              - generic [ref=e360]: JEE Challenger
+              - generic [ref=e361]: Start practicing past year JEE questions.
+          - generic [ref=e364]:
+            - list [ref=e365]:
+              - button "slide item 1" [ref=e366] [cursor=pointer]
+              - button "slide item 2" [ref=e367] [cursor=pointer]
+              - button "slide item 3" [ref=e368] [cursor=pointer]
+            - list [ref=e370]:
+              - listitem [ref=e371]:
+                - generic [ref=e373] [cursor=pointer]:
+                  - img "Previous NEET & JEE results"
+              - listitem [ref=e374]:
+                - generic [ref=e376] [cursor=pointer]:
+                  - img "Previous NEET & JEE results"
+              - listitem [ref=e377]:
+                - generic [ref=e379] [cursor=pointer]:
+                  - img "Previous NEET & JEE results"
+              - listitem [ref=e380]:
+                - generic [ref=e382] [cursor=pointer]:
+                  - img "Previous NEET & JEE results"
+              - listitem [ref=e383]:
+                - generic [ref=e385] [cursor=pointer]:
+                  - img "Previous NEET & JEE results"
+          - generic [ref=e386]:
+            - heading "Quick Links" [level=2] [ref=e387]
+            - generic [ref=e391]:
+              - generic [ref=e392]: Check your Test Results
+              - link "Check Result" [ref=e393] [cursor=pointer]:
+                - /url: /student-result-data?psid=MDAwMDc4NDQxNTA=
+          - generic [ref=e395]:
+            - generic [ref=e396]: myAakash app is available on all platforms
+            - generic [ref=e397]:
+              - generic [ref=e398]:
+                - generic [ref=e399]:
+                  - img [ref=e400]
+                  - generic [ref=e402]: Mobiles
+                  - generic [ref=e403]: iOS & Android
+                - generic [ref=e404]:
+                  - img [ref=e405]
+                  - generic [ref=e409]: Desktops
+                  - generic [ref=e410]: All Browsers
+              - generic [ref=e411]:
+                - link "google play icon" [ref=e412] [cursor=pointer]:
+                  - /url: https://play.google.com/store/apps/details?id=com.aakash.myaakashapp
+                  - img "google play icon" [ref=e414]
+                - link "app store icon" [ref=e415] [cursor=pointer]:
+                  - /url: https://apps.apple.com/in/app/myaakash/id6444600463
+                  - img "app store icon" [ref=e417]
+  - alert [ref=e418]: Aakash
+```

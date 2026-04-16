@@ -1,0 +1,45 @@
+--- HEADINGS ---
+[
+  {
+    "tag": "H2",
+    "text": "SUPPORT",
+    "class": "uppercase text-sm text-white font-medium ml-6 mb-2"
+  },
+  {
+    "tag": "H2",
+    "text": "9MW2",
+    "class": "text-[#757575] font-normal text-xs"
+  },
+  {
+    "tag": "H6",
+    "text": "Sort By :",
+    "class": "whitespace-nowrap font-semibold"
+  },
+  {
+    "tag": "H2",
+    "text": "9MW2",
+    "class": "text-[#757575] font-normal text-xs"
+  },
+  {
+    "tag": "H3",
+    "text": "Sorty By",
+    "class": "inline font-medium "
+  },
+  {
+    "tag": "H3",
+    "text": "Date",
+    "class": "font-medium"
+  },
+  {
+    "tag": "H3",
+    "text": "Chapter",
+    "class": "font-medium"
+  },
+  {
+    "tag": "H6",
+    "text": "You will be able to access your class content for this subject as soon as it is available",
+    "class": "text-center mt-3 text-base sm:text-sm "
+  }
+]
+--- POTENTIAL MONTH DIVS ---
+[]

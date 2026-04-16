@@ -1,0 +1,7 @@
+Popup not visible or failed to close
+Total batches visible in Channels: 6
+Batch index 0: posts found = 1
+Channels content type found: Announcement
+Inline image(s) found in post. Image count: 1
+Post text found: Timetable and Attendance | Aakash iTutor (New) | Test Performance
+No attachment found in the selected post.

@@ -1,0 +1,4 @@
+Popup not visible or failed to close
+Total batches visible in Channels: 1
+Batch index 0: posts found = 1
+Channels content type found: Type not found

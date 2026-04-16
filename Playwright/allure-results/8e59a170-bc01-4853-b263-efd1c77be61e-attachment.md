@@ -1,0 +1,193 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e5]:
+    - generic [ref=e8]:
+      - link "Aakash Logo" [ref=e9] [cursor=pointer]:
+        - /url: https://www.aakash.ac.in
+        - img "Aakash Logo" [ref=e11]
+      - generic [ref=e12]:
+        - generic [ref=e15] [cursor=pointer]:
+          - img [ref=e17]
+          - generic [ref=e19]: Home
+        - generic [ref=e22] [cursor=pointer]:
+          - img [ref=e24]
+          - generic [ref=e28]: Timetable and Attendance
+        - generic [ref=e31] [cursor=pointer]:
+          - img [ref=e33]
+          - generic [ref=e37]: Tests
+        - generic [ref=e40] [cursor=pointer]:
+          - img [ref=e42]
+          - generic [ref=e46]: Aakash iTutor
+        - generic [ref=e49] [cursor=pointer]:
+          - img [ref=e51]
+          - generic [ref=e55]: Aakash iTutor (New)
+        - generic [ref=e58] [cursor=pointer]:
+          - img [ref=e60]
+          - generic [ref=e63]: Ask Your Doubt
+        - generic [ref=e66] [cursor=pointer]:
+          - img [ref=e68]
+          - generic [ref=e72]: Test Performance
+        - generic [ref=e75] [cursor=pointer]:
+          - img [ref=e77]
+          - generic [ref=e82]: Channels
+        - generic [ref=e85] [cursor=pointer]:
+          - img [ref=e87]
+          - generic [ref=e90]: Class Recordings & Content
+        - generic [ref=e93] [cursor=pointer]:
+          - img [ref=e95]
+          - generic [ref=e97]: Assignments & Solutions
+          - img [ref=e98]
+        - generic [ref=e102] [cursor=pointer]:
+          - img [ref=e104]
+          - generic [ref=e106]: Bookmarks
+        - generic [ref=e109] [cursor=pointer]:
+          - img [ref=e111]
+          - generic [ref=e115]: Fee and Payment
+        - generic [ref=e118] [cursor=pointer]:
+          - img [ref=e120]
+          - generic [ref=e124]: Faculty Feedback
+        - generic [ref=e127] [cursor=pointer]:
+          - img [ref=e129]
+          - generic [ref=e134]: Service Request
+      - heading "Support" [level=2] [ref=e135]
+      - generic [ref=e138] [cursor=pointer]:
+        - img [ref=e140]
+        - generic [ref=e146]: Branch Contact
+    - generic [ref=e147]:
+      - generic [ref=e149]:
+        - generic [ref=e153] [cursor=pointer]:
+          - img [ref=e156]
+          - generic [ref=e159]:
+            - text: Selected Batch
+            - heading "02M4" [level=2] [ref=e160]
+          - img [ref=e162]
+        - generic [ref=e164]:
+          - img [ref=e166] [cursor=pointer]
+          - generic [ref=e169] [cursor=pointer]:
+            - generic [ref=e170]: MS
+            - generic [ref=e171]:
+              - generic [ref=e173]: Manvendra Sachan
+              - img [ref=e175]
+      - generic [ref=e178]:
+        - generic [ref=e180]:
+          - generic [ref=e181]:
+            - generic [ref=e182] [cursor=pointer]:
+              - img [ref=e185]
+              - generic [ref=e191]: Chemistry
+            - generic [ref=e192] [cursor=pointer]:
+              - img [ref=e195]
+              - generic [ref=e200]: Zoology
+            - generic [ref=e201] [cursor=pointer]:
+              - img [ref=e204]
+              - generic [ref=e208]: Botany
+            - generic [ref=e209] [cursor=pointer]:
+              - img [ref=e212]
+              - generic [ref=e218]: Physics
+          - generic [ref=e219]:
+            - heading "Sort By :" [level=6] [ref=e220]
+            - generic [ref=e221] [cursor=pointer]:
+              - text: Date
+              - img [ref=e222]
+        - generic [ref=e226]:
+          - heading "May" [level=6] [ref=e227]
+          - generic [ref=e228]:
+            - generic [ref=e230]:
+              - heading "Wednesday, 28 May’25" [level=3] [ref=e231]
+              - heading "11:00PM - 11:04PM" [level=6] [ref=e232]:
+                - img [ref=e233]
+                - text: 11:00PM - 11:04PM
+              - text: Content will be available soon
+            - generic [ref=e238]:
+              - heading "Wednesday, 28 May’25" [level=3] [ref=e239]
+              - heading "6:00PM - 7:00PM" [level=6] [ref=e240]:
+                - img [ref=e241]
+                - text: 6:00PM - 7:00PM
+              - generic [ref=e245]:
+                - button "Play Video" [ref=e246] [cursor=pointer]:
+                  - img [ref=e247]
+                  - heading "Play Video" [level=4] [ref=e251]
+                - button "View Notes" [ref=e252] [cursor=pointer]:
+                  - img [ref=e253]
+                  - heading "View Notes" [level=4] [ref=e255]
+            - generic [ref=e257]:
+              - heading "Wednesday, 28 May’25" [level=3] [ref=e258]
+              - heading "4:00PM - 4:03PM" [level=6] [ref=e259]:
+                - img [ref=e260]
+                - text: 4:00PM - 4:03PM
+              - text: Content will be available soon
+            - generic [ref=e265]:
+              - heading "Wednesday, 28 May’25" [level=3] [ref=e266]
+              - heading "3:59PM - 4:30PM" [level=6] [ref=e267]:
+                - img [ref=e268]
+                - text: 3:59PM - 4:30PM
+              - generic [ref=e272]:
+                - button "Play Video" [ref=e273] [cursor=pointer]:
+                  - img [ref=e274]
+                  - heading "Play Video" [level=4] [ref=e278]
+                - button "View Notes" [ref=e279] [cursor=pointer]:
+                  - img [ref=e280]
+                  - heading "View Notes" [level=4] [ref=e282]
+            - generic [ref=e284]:
+              - heading "Wednesday, 28 May’25" [level=3] [ref=e285]
+              - heading "1:03PM - 1:07PM" [level=6] [ref=e286]:
+                - img [ref=e287]
+                - text: 1:03PM - 1:07PM
+              - text: Content will be available soon
+            - generic [ref=e292]:
+              - heading "Monday, 26 May’25" [level=3] [ref=e293]
+              - heading "6:00PM - 10:00PM" [level=6] [ref=e294]:
+                - img [ref=e295]
+                - text: 6:00PM - 10:00PM
+              - text: Content will be available soon
+            - generic [ref=e300]:
+              - heading "Monday, 26 May’25" [level=3] [ref=e301]
+              - heading "4:02PM - 6:00PM" [level=6] [ref=e302]:
+                - img [ref=e303]
+                - text: 4:02PM - 6:00PM
+              - text: Content will be available soon
+            - generic [ref=e308]:
+              - heading "Monday, 26 May’25" [level=3] [ref=e309]
+              - heading "12:45PM - 1:45PM" [level=6] [ref=e310]:
+                - img [ref=e311]
+                - text: 12:45PM - 1:45PM
+              - text: Content will be available soon
+            - generic [ref=e316]:
+              - heading "Saturday, 24 May’25" [level=3] [ref=e317]
+              - heading "11:05PM - 11:59PM" [level=6] [ref=e318]:
+                - img [ref=e319]
+                - text: 11:05PM - 11:59PM
+              - text: Content will be available soon
+            - generic [ref=e324]:
+              - heading "Saturday, 24 May’25" [level=3] [ref=e325]
+              - heading "11:00PM - 11:59PM" [level=6] [ref=e326]:
+                - img [ref=e327]
+                - text: 11:00PM - 11:59PM
+              - text: Content will be available soon
+            - generic [ref=e332]:
+              - heading "Saturday, 24 May’25" [level=3] [ref=e333]
+              - heading "7:27PM - 8:00PM" [level=6] [ref=e334]:
+                - img [ref=e335]
+                - text: 7:27PM - 8:00PM
+              - generic [ref=e339]:
+                - button "Play Video" [ref=e340] [cursor=pointer]:
+                  - img [ref=e341]
+                  - heading "Play Video" [level=4] [ref=e345]
+                - button "View Notes" [ref=e346] [cursor=pointer]:
+                  - img [ref=e347]
+                  - heading "View Notes" [level=4] [ref=e349]
+            - generic [ref=e351]:
+              - heading "Saturday, 24 May’25" [level=3] [ref=e352]
+              - heading "2:10PM - 2:35PM" [level=6] [ref=e353]:
+                - img [ref=e354]
+                - text: 2:10PM - 2:35PM
+              - generic [ref=e358]:
+                - button "Play Video" [ref=e359] [cursor=pointer]:
+                  - img [ref=e360]
+                  - heading "Play Video" [level=4] [ref=e364]
+                - button "View Notes" [ref=e365] [cursor=pointer]:
+                  - img [ref=e366]
+                  - heading "View Notes" [level=4] [ref=e368]
+  - alert [ref=e369]: Aakash
+```

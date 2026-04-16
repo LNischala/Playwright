@@ -1,0 +1,7 @@
+Popup not visible or failed to close
+Total batches visible in Channels: 6
+Batch index 0: posts found = 1
+Channels content type found: Announcement
+No .png/.jpg image content found in opened post.
+Post text found: Home | Timetable and Attendance | Tests
+No attachment found in the selected post.

@@ -1,0 +1,218 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e5]:
+    - generic [ref=e8]:
+      - link "Aakash Logo" [ref=e9] [cursor=pointer]:
+        - /url: https://www.aakash.ac.in
+        - img "Aakash Logo" [ref=e11]
+      - generic [ref=e12]:
+        - generic [ref=e15] [cursor=pointer]:
+          - img [ref=e17]
+          - generic [ref=e19]: Home
+        - generic [ref=e22] [cursor=pointer]:
+          - img [ref=e24]
+          - generic [ref=e28]: Timetable and Attendance
+        - generic [ref=e31] [cursor=pointer]:
+          - img [ref=e33]
+          - generic [ref=e37]: Tests
+        - generic [ref=e40] [cursor=pointer]:
+          - img [ref=e42]
+          - generic [ref=e46]: Aakash iTutor
+        - generic [ref=e49] [cursor=pointer]:
+          - img [ref=e51]
+          - generic [ref=e55]: Aakash iTutor (New)
+        - generic [ref=e58] [cursor=pointer]:
+          - img [ref=e60]
+          - generic [ref=e63]: Ask Your Doubt
+        - generic [ref=e66] [cursor=pointer]:
+          - img [ref=e68]
+          - generic [ref=e72]: Test Performance
+        - generic [ref=e75] [cursor=pointer]:
+          - img [ref=e77]
+          - generic [ref=e82]: Channels
+        - generic [ref=e85] [cursor=pointer]:
+          - img [ref=e87]
+          - generic [ref=e90]: Class Recordings & Content
+        - generic [ref=e93] [cursor=pointer]:
+          - img [ref=e95]
+          - generic [ref=e97]: Assignments & Solutions
+          - img [ref=e98]
+        - generic [ref=e102] [cursor=pointer]:
+          - img [ref=e104]
+          - generic [ref=e106]: Bookmarks
+        - generic [ref=e109] [cursor=pointer]:
+          - img [ref=e111]
+          - generic [ref=e115]: Fee and Payment
+        - generic [ref=e118] [cursor=pointer]:
+          - img [ref=e120]
+          - generic [ref=e124]: Faculty Feedback
+        - generic [ref=e127] [cursor=pointer]:
+          - img [ref=e129]
+          - generic [ref=e134]: Service Request
+      - heading "Support" [level=2] [ref=e135]
+      - generic [ref=e138] [cursor=pointer]:
+        - img [ref=e140]
+        - generic [ref=e146]: Branch Contact
+    - generic [ref=e147]:
+      - generic [ref=e149]:
+        - generic [ref=e151]:
+          - img [ref=e153] [cursor=pointer]
+          - generic [ref=e156] [cursor=pointer]:
+            - img [ref=e159]
+            - generic [ref=e165]:
+              - generic [ref=e166]: "01"
+              - text: Electric Charges and Fields
+            - img [ref=e168]
+        - generic [ref=e170]:
+          - img [ref=e172] [cursor=pointer]
+          - generic [ref=e175] [cursor=pointer]:
+            - generic [ref=e176]: MS
+            - generic [ref=e177]:
+              - generic [ref=e179]: Manvendra Sachan
+              - img [ref=e181]
+      - generic [ref=e184]:
+        - generic [ref=e187]:
+          - generic [ref=e189]:
+            - generic [ref=e191] [cursor=pointer]:
+              - generic [ref=e192]:
+                - img [ref=e193]
+                - img [ref=e196]
+              - generic [ref=e200]:
+                - generic [ref=e201]: Videos
+                - generic [ref=e202]: 28/119
+            - generic [ref=e204] [cursor=pointer]:
+              - generic [ref=e205]:
+                - img [ref=e206]
+                - img [ref=e209]
+              - generic [ref=e215]:
+                - generic [ref=e216]: eBooks
+                - generic [ref=e217]: 4/9
+            - generic [ref=e219] [cursor=pointer]:
+              - generic [ref=e220]:
+                - img [ref=e221]
+                - img [ref=e224]
+              - generic [ref=e230]:
+                - generic [ref=e231]: Practice
+                - generic [ref=e232]: 5/13
+          - generic [ref=e235] [cursor=pointer]: General
+        - generic [ref=e236]:
+          - generic [ref=e241] [cursor=pointer]:
+            - img [ref=e243]
+            - generic [ref=e249]:
+              - generic [ref=e250]: Electric Charge and Fields
+              - generic [ref=e251]:
+                - img [ref=e252]
+                - generic [ref=e256]: 84 pages
+              - generic [ref=e258]:
+                - generic [ref=e259]: 38%
+                - generic [ref=e260]:
+                  - generic [ref=e261]: "32"
+                  - generic [ref=e262]: /
+                  - generic [ref=e263]: "84"
+            - img [ref=e267]
+          - generic [ref=e273] [cursor=pointer]:
+            - img [ref=e275]
+            - generic [ref=e281]:
+              - generic [ref=e282]: Rapid Revision and Formula Bank - Electrostatics
+              - generic [ref=e283]:
+                - img [ref=e284]
+                - generic [ref=e288]: 12 pages
+              - generic [ref=e291]: 100%
+            - img [ref=e295]
+          - generic [ref=e301] [cursor=pointer]:
+            - img [ref=e303]
+            - generic [ref=e309]:
+              - generic [ref=e310]: NSE-Physics
+              - generic [ref=e311]:
+                - img [ref=e312]
+                - generic [ref=e316]: 106 pages
+              - generic [ref=e318]:
+                - generic [ref=e319]: 1%
+                - generic [ref=e320]:
+                  - generic [ref=e321]: "1"
+                  - generic [ref=e322]: /
+                  - generic [ref=e323]: "106"
+            - img [ref=e327]
+          - generic [ref=e333] [cursor=pointer]:
+            - img [ref=e335]
+            - generic [ref=e341]:
+              - generic [ref=e342]: NSE-Physics_Sol
+              - generic [ref=e343]:
+                - img [ref=e344]
+                - generic [ref=e348]: 108 pages
+              - generic [ref=e350]:
+                - generic [ref=e351]: 6%
+                - generic [ref=e352]:
+                  - generic [ref=e353]: "6"
+                  - generic [ref=e354]: /
+                  - generic [ref=e355]: "108"
+            - img [ref=e359]
+          - generic [ref=e365] [cursor=pointer]:
+            - img [ref=e367]
+            - generic [ref=e373]:
+              - generic [ref=e374]: Electric Charges and Fields_Solution
+              - generic [ref=e375]:
+                - img [ref=e376]
+                - generic [ref=e380]: 40 pages
+              - generic [ref=e382]:
+                - generic [ref=e383]: 5%
+                - generic [ref=e384]:
+                  - generic [ref=e385]: "2"
+                  - generic [ref=e386]: /
+                  - generic [ref=e387]: "40"
+            - img [ref=e391]
+          - generic [ref=e397] [cursor=pointer]:
+            - img [ref=e399]
+            - generic [ref=e405]:
+              - generic [ref=e406]: JEE Score-Electric Charges and Fields
+              - generic [ref=e407]:
+                - img [ref=e408]
+                - generic [ref=e412]: 6 pages
+              - generic [ref=e415]: 100%
+            - img [ref=e419]
+          - generic [ref=e425] [cursor=pointer]:
+            - img [ref=e427]
+            - generic [ref=e433]:
+              - generic [ref=e434]: Spotlight_Phase-2-PHYSICS
+              - generic [ref=e435]:
+                - img [ref=e436]
+                - generic [ref=e440]: 150 pages
+              - generic [ref=e442]:
+                - generic [ref=e443]: 11%
+                - generic [ref=e444]:
+                  - generic [ref=e445]: "16"
+                  - generic [ref=e446]: /
+                  - generic [ref=e447]: "150"
+            - img [ref=e451]
+          - generic [ref=e457] [cursor=pointer]:
+            - img [ref=e459]
+            - generic [ref=e465]:
+              - generic [ref=e466]: AMTP_Class-XII_Paper-1 to 3_Physics
+              - generic [ref=e467]:
+                - img [ref=e468]
+                - generic [ref=e472]: 40 pages
+              - generic [ref=e474]:
+                - generic [ref=e475]: 5%
+                - generic [ref=e476]:
+                  - generic [ref=e477]: "2"
+                  - generic [ref=e478]: /
+                  - generic [ref=e479]: "40"
+            - img [ref=e483]
+          - generic [ref=e489] [cursor=pointer]:
+            - img [ref=e491]
+            - generic [ref=e497]:
+              - generic [ref=e498]: AMTP_Class-XII_Paper-1 to 3_Physics_Solutions
+              - generic [ref=e499]:
+                - img [ref=e500]
+                - generic [ref=e504]: 40 pages
+              - generic [ref=e506]:
+                - generic [ref=e507]: 5%
+                - generic [ref=e508]:
+                  - generic [ref=e509]: "2"
+                  - generic [ref=e510]: /
+                  - generic [ref=e511]: "40"
+            - img [ref=e515]
+  - alert [ref=e517]: Aakash
+```

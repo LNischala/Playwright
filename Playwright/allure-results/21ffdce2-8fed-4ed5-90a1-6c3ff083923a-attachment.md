@@ -1,0 +1,237 @@
+# Page snapshot
+
+```yaml
+- generic [active] [ref=e1]:
+  - generic [ref=e5]:
+    - generic [ref=e8]:
+      - link "Aakash Logo" [ref=e9] [cursor=pointer]:
+        - /url: https://www.aakash.ac.in
+        - img "Aakash Logo" [ref=e11]
+      - generic [ref=e12]:
+        - generic [ref=e15] [cursor=pointer]:
+          - img [ref=e17]
+          - generic [ref=e19]: Home
+        - generic [ref=e22] [cursor=pointer]:
+          - img [ref=e24]
+          - generic [ref=e28]: Timetable and Attendance
+        - generic [ref=e31] [cursor=pointer]:
+          - img [ref=e33]
+          - generic [ref=e37]: Tests
+        - generic [ref=e40] [cursor=pointer]:
+          - img [ref=e42]
+          - generic [ref=e46]: Aakash iTutor
+        - generic [ref=e49] [cursor=pointer]:
+          - img [ref=e51]
+          - generic [ref=e55]: Aakash iTutor (New)
+        - generic [ref=e58] [cursor=pointer]:
+          - img [ref=e60]
+          - generic [ref=e63]: Ask Your Doubt
+        - generic [ref=e66] [cursor=pointer]:
+          - img [ref=e68]
+          - generic [ref=e72]: Test Performance
+        - generic [ref=e75] [cursor=pointer]:
+          - img [ref=e77]
+          - generic [ref=e82]: Channels
+        - generic [ref=e85] [cursor=pointer]:
+          - img [ref=e87]
+          - generic [ref=e90]: Class Recordings & Content
+        - generic [ref=e93] [cursor=pointer]:
+          - img [ref=e95]
+          - generic [ref=e97]: Assignments & Solutions
+          - img [ref=e98]
+        - generic [ref=e102] [cursor=pointer]:
+          - img [ref=e104]
+          - generic [ref=e106]: Bookmarks
+        - generic [ref=e109] [cursor=pointer]:
+          - img [ref=e111]
+          - generic [ref=e115]: Fee and Payment
+        - generic [ref=e118] [cursor=pointer]:
+          - img [ref=e120]
+          - generic [ref=e124]: Faculty Feedback
+        - generic [ref=e127] [cursor=pointer]:
+          - img [ref=e129]
+          - generic [ref=e134]: Service Request
+      - heading "Support" [level=2] [ref=e135]
+      - generic [ref=e138] [cursor=pointer]:
+        - img [ref=e140]
+        - generic [ref=e146]: Branch Contact
+    - generic [ref=e147]:
+      - generic [ref=e150]:
+        - img [ref=e152] [cursor=pointer]
+        - generic [ref=e155] [cursor=pointer]:
+          - generic [ref=e156]: MS
+          - generic [ref=e157]:
+            - generic [ref=e159]: Manvendra Sachan
+            - img [ref=e161]
+      - generic [ref=e163]:
+        - img [ref=e165] [cursor=pointer]
+        - generic [ref=e170]:
+          - generic [ref=e171]:
+            - generic [ref=e172]: Today is
+            - generic [ref=e173]: Wed, 15 Apr, 2026
+            - generic [ref=e174]:
+              - generic [ref=e175]: "First Punch :"
+              - generic [ref=e176]: "-"
+            - generic [ref=e178]:
+              - generic [ref=e179]: "Last Punch :"
+              - generic [ref=e180]: "-"
+          - heading "Tests" [level=2] [ref=e182]
+          - generic [ref=e185]:
+            - img [ref=e187] [cursor=pointer]
+            - generic [ref=e192] [cursor=pointer]:
+              - generic [ref=e193]:
+                - generic [ref=e194]:
+                  - generic [ref=e195]: Fortnightly Test - rajendra
+                  - generic [ref=e196]: upcoming
+                - generic [ref=e197]:
+                  - img [ref=e198]
+                  - generic [ref=e200]: 15 Apr'26, 4:00 PM
+                - generic [ref=e201]:
+                  - img [ref=e202]
+                  - generic [ref=e204]: C-201
+                - generic [ref=e205]:
+                  - img [ref=e206]
+                  - generic [ref=e208]: Physics, Chemistry, Mathematics
+              - button "Test Details" [ref=e210]
+            - img [ref=e212] [cursor=pointer]
+          - generic [ref=e217]:
+            - generic:
+              - img "image"
+            - generic:
+              - img "image"
+            - generic [ref=e218]: What would you like to learn today?
+            - generic [ref=e219]:
+              - generic [ref=e220]:
+                - img "Subject Icon" [ref=e223] [cursor=pointer]
+                - generic [ref=e224]: Physics
+              - generic [ref=e225]:
+                - img "Subject Icon" [ref=e228] [cursor=pointer]
+                - generic [ref=e229]: Chemistry
+              - generic [ref=e230]:
+                - img "Subject Icon" [ref=e233] [cursor=pointer]
+                - generic [ref=e234]: Mathematics
+          - generic [ref=e235]:
+            - generic [ref=e236]: Resume learning
+            - generic [ref=e239]:
+              - img [ref=e241] [cursor=pointer]
+              - generic [ref=e243]:
+                - generic [ref=e245] [cursor=pointer]:
+                  - img [ref=e248]
+                  - generic [ref=e254]:
+                    - generic [ref=e255]: Physics
+                    - generic [ref=e256]: NSE-Physics_Sol
+                    - generic [ref=e258]:
+                      - generic [ref=e259]: 2%
+                      - generic [ref=e260]:
+                        - generic [ref=e261]: "2"
+                        - generic [ref=e262]: /
+                        - generic [ref=e263]: "108"
+                - generic [ref=e267] [cursor=pointer]:
+                  - img [ref=e270]
+                  - generic [ref=e276]:
+                    - generic [ref=e277]: Physics
+                    - generic [ref=e278]: Electric Charge and Fields
+                    - generic [ref=e280]:
+                      - generic [ref=e281]: 2%
+                      - generic [ref=e282]:
+                        - generic [ref=e283]: "2"
+                        - generic [ref=e284]: /
+                        - generic [ref=e285]: "84"
+                - generic [ref=e289] [cursor=pointer]:
+                  - img [ref=e293]
+                  - generic [ref=e296]:
+                    - generic [ref=e297]: Physics
+                    - generic [ref=e298]: Introduction to Physical world
+                    - generic [ref=e300]:
+                      - generic [ref=e301]: 5%
+                      - generic [ref=e302]:
+                        - generic [ref=e303]: 00:29
+                        - generic [ref=e304]: /
+                        - generic [ref=e305]: 10:23
+                - generic [ref=e309] [cursor=pointer]:
+                  - img [ref=e313]
+                  - generic [ref=e316]:
+                    - generic [ref=e317]: Physics
+                    - generic [ref=e318]: Introduction to electric charges
+                    - generic [ref=e320]:
+                      - generic [ref=e321]: 12%
+                      - generic [ref=e322]:
+                        - generic [ref=e323]: 01:10
+                        - generic [ref=e324]: /
+                        - generic [ref=e325]: 09:22
+                - generic [ref=e329] [cursor=pointer]:
+                  - img [ref=e333]
+                  - generic [ref=e336]:
+                    - generic [ref=e337]: Chemistry
+                    - generic [ref=e338]: Magnetic Properties and colour of Transition Elements
+                    - generic [ref=e340]:
+                      - generic [ref=e341]: Yet to start
+                      - generic [ref=e342]:
+                        - generic [ref=e343]: 00:04
+                        - generic [ref=e344]: /
+                        - generic [ref=e345]: 16:28
+              - img [ref=e348] [cursor=pointer]
+          - generic [ref=e350] [cursor=pointer]:
+            - img "Student Profile" [ref=e353]
+            - generic [ref=e354]: Switch to Parent Profile
+            - generic [ref=e355]:
+              - generic [ref=e356]: Switch
+              - img [ref=e358]
+          - generic [ref=e361] [cursor=pointer]:
+            - img [ref=e363]
+            - generic [ref=e365]:
+              - generic [ref=e366]: Ask your Doubt
+              - generic [ref=e367]: Get instant solution to your questions.
+          - generic [ref=e369] [cursor=pointer]:
+            - img [ref=e371]
+            - generic [ref=e373]:
+              - generic [ref=e374]: JEE Challenger
+              - generic [ref=e375]: Start practicing past year JEE questions.
+          - generic [ref=e378]:
+            - list [ref=e379]:
+              - button "slide item 1" [ref=e380] [cursor=pointer]
+              - button "slide item 2" [ref=e381] [cursor=pointer]
+              - button "slide item 3" [ref=e382] [cursor=pointer]
+            - list [ref=e384]:
+              - listitem [ref=e385]:
+                - generic [ref=e387] [cursor=pointer]:
+                  - img "Previous NEET & JEE results"
+              - listitem [ref=e388]:
+                - generic [ref=e390] [cursor=pointer]:
+                  - img "Previous NEET & JEE results"
+              - listitem [ref=e391]:
+                - generic [ref=e393] [cursor=pointer]:
+                  - img "Previous NEET & JEE results"
+              - listitem [ref=e394]:
+                - generic [ref=e396] [cursor=pointer]:
+                  - img "Previous NEET & JEE results"
+              - listitem [ref=e397]:
+                - generic [ref=e399] [cursor=pointer]:
+                  - img "Previous NEET & JEE results"
+          - generic [ref=e400]:
+            - heading "Quick Links" [level=2] [ref=e401]
+            - generic [ref=e405]:
+              - generic [ref=e406]: Check your Test Results
+              - link "Check Result" [ref=e407] [cursor=pointer]:
+                - /url: /student-result-data?psid=MDAwMDc4NDQxNTA=
+          - generic [ref=e409]:
+            - generic [ref=e410]: myAakash app is available on all platforms
+            - generic [ref=e411]:
+              - generic [ref=e412]:
+                - generic [ref=e413]:
+                  - img [ref=e414]
+                  - generic [ref=e416]: Mobiles
+                  - generic [ref=e417]: iOS & Android
+                - generic [ref=e418]:
+                  - img [ref=e419]
+                  - generic [ref=e423]: Desktops
+                  - generic [ref=e424]: All Browsers
+              - generic [ref=e425]:
+                - link "google play icon" [ref=e426] [cursor=pointer]:
+                  - /url: https://play.google.com/store/apps/details?id=com.aakash.myaakashapp
+                  - img "google play icon" [ref=e428]
+                - link "app store icon" [ref=e429] [cursor=pointer]:
+                  - /url: https://apps.apple.com/in/app/myaakash/id6444600463
+                  - img "app store icon" [ref=e431]
+  - alert [ref=e432]: Aakash
+```

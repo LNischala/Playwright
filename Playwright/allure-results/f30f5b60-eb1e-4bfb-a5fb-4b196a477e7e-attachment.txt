@@ -1,0 +1,2 @@
+Popup not visible or failed to close
+Total batches visible in Channels: 0

@@ -1,0 +1,6 @@
+Popup not visible or failed to close
+Found 6 month containers in Chemistry.
+Skipping month container as it has no Play Video or View Notes options.
+Month container has actionable content. Iterating cards...
+Verified "Content available soon" state.
+Successfully verified Video Playback.

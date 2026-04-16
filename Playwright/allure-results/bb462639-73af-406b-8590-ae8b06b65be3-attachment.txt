@@ -1,0 +1,29 @@
+Popup not visible or failed to close
+Sorted by date
+chemistry : 40 cards
+first card 'Content available soon'
+last card 'Content available soon'
+zoology : 26 cards
+first card 'Content available soon'
+last card 'Content available soon'
+botany : 5 cards
+first card has play video and notes
+last card 'Content available soon'
+physics : 144 cards
+first card has play video and notes
+last card 'Content available soon'
+Subject tab Mathematics not found, skipping.
+Subject tab Biology not found, skipping.
+Sorted by date
+chemistry : 25 cards
+first card 'Content available soon'
+last card 'Content available soon'
+Subject tab Zoology not found, skipping.
+Subject tab Botany not found, skipping.
+physics : 27 cards
+first card 'Content available soon'
+last card 'Content available soon'
+mathematics : 28 cards
+first card 'Content available soon'
+last card 'Content available soon'
+Subject tab Biology not found, skipping.

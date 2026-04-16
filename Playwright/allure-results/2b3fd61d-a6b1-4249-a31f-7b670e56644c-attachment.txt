@@ -1,0 +1,5 @@
+Popup not visible or failed to close
+Total batches visible in Channels: 6
+Batch index 0: posts found = 1
+Channels content type found: Announcement
+No attachment found in the selected post.
